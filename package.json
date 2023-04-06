@@ -1,0 +1,20 @@
+{
+  "name": "aula-mod3",
+  "version": "1.0.0",
+  "description": "exemplo semana 3",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Thuanny Dias",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
